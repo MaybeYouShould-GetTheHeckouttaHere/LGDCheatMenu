@@ -1,0 +1,7 @@
+dist/
+release/
+payload/
+.validation/
+*.user
+*.pdb
+__pycache__/
